@@ -6,7 +6,7 @@ Math 244: Calculus IV, Section 1, Fall 2016
 **Email:** [williamdemeo at gmail](mailto:williamdemeo@gmail.com?subject=MATH
 244: (insert an informative subject))  
 **Office:** PSB 404  
-**Office hours:** tbd  
+**Office hours:** Tue, Thu 11am--12:30pm, PSB 404  
 **Lecture time and location:** Mon, Wed, Fri 11:30--12:20pm, Keller 303
 
 --------------------
