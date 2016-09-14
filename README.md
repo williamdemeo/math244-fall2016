@@ -118,13 +118,16 @@ Exams
 -----
 There will be three midterm exams each worth 15%, and a final exam worth 40%, of the course grade.
 
-+ **MIDTERM EXAM 1** (focus tbd)  
++ **MIDTERM EXAM 1**  
+**Focus:** 14.1, 14.2, 14.4 (some of 14.3, 14.5)  
 **DATE:** Wednesday, September 21 (subject to change)  
   
-+ **MIDTERM EXAM 2** (focus tbd)  
++ **MIDTERM EXAM 2**  
+**Focus:** 14.5--14.8    
 **DATE:** Friday, October 21 (subject to change)  
 
-+ **MIDTERM EXAM 3** (focus tbd)  
++ **MIDTERM EXAM 3**  
+**Focus:** 15.1--15.4    
 **DATE:** Friday, November 18 (subject to change)  
 
 + **FINAL EXAM** (cumulative)  
