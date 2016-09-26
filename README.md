@@ -150,9 +150,10 @@ Homework
 Solving lots of problems is the best way to prepare yourself to do well on the
 tests, and ultimately to do well in the course.
 
-The **homework will account for 15% of the course grade** and will be
-assigned once per week, typically due each Friday **at the beginning of class.**
-You must submit a hard copy of your homework.  Electronic documents
+The **homework will account for 20% of the course grade** and will be
+assigned approximately once per week.
+You must submit a hard copy of your homework **at the beginning of class**
+on the day it is due.  Electronic documents
 (e.g., email attachments) are not acceptable.
 
 Homework submitted at the end of class on the due date will be penalized
@@ -161,7 +162,8 @@ accepted or graded.**
 
 At least one (possibly more) of the lowest or missed homework scores
 will be dropped and not counted toward the final course grade.
-*The 10 best homework scores will count toward the final grade.*
+There will be approximately 12 homework assignments total, and
+*the 10 best homework scores will count toward the final grade.*
 
 ------------------------------------------
 
@@ -200,9 +202,9 @@ Grading Policy
 --------------
 The breakdown of the final course grade is as follows:  
 
-+ Final exam: 40 points  
++ Final exam: 35 points  
 + Mid-term exams: 45 points (15 each)  
-+ Homework: 15 points total  
++ Homework: 20 points total  
 
 At the end of the semester, letter grades will be assigned roughly according to
 the following table. However, the scale may be shifted,
